@@ -1,0 +1,54 @@
+{
+  "users": [],
+  "billing": [
+    {
+      "name": "Maftuna O`ktamova",
+      "companyname": "shokhuk",
+      "email": "shokhuk006@gmail.com",
+      "vatnumber": "1234",
+      "moneytransition": "-2500",
+      "id": 6
+    },
+    {
+      "name": "FrontEnd developer",
+      "companyname": "shokhuk",
+      "email": "shokhuk006@gmail.com",
+      "vatnumber": "5444454",
+      "moneytransition": "4500",
+      "id": 7
+    },
+    {
+      "name": "Maftuna O`ktamova",
+      "companyname": "shokhuk",
+      "email": "shokhuk006@gmail.com",
+      "vatnumber": "1234545",
+      "moneytransition": "-250",
+      "id": 8
+    }
+  ],
+  "tables": [
+    {
+      "name": "shohjahon uktamov",
+      "email": "shokhuk006@gmail.com",
+      "function": "organisition",
+      "position": "junior teacher",
+      "offline": null,
+      "online": "online",
+      "employed": "13/02/2024",
+      "id": 14
+    }
+  ],
+  "projects": [],
+  "cards": [
+    {
+      "mastercard": "3445443433",
+      "visacard": "46452434534",
+      "id": 1
+    },
+    {
+      "mastercard": "3593434",
+      "visacard": "23943923",
+      "id": 2
+    }
+  ]
+}
